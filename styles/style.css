@@ -656,8 +656,8 @@
   line-height: 20px; /* 153.846% */
 }
 
-.ideas__link:first-child {
-  margin-top: 12px;
+.ideas__link-first {
+  margin-top: 15px;
 }
 
 .newsletter {
